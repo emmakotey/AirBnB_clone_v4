@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" setup Flash Web Application """
+""" Starts a Flash Web Application """
 from models import storage
 from models.state import State
 from models.city import City
